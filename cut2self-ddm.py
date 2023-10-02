@@ -105,7 +105,7 @@ if __name__ == "__main__":
             # img_input = img*mask
             img_input = img
             # y = img - img_input
-            y = img
+            y = y = (1-mask.detach().numpy())*img
             p1 = np.random.uniform(size=1)
             p2 = np.random.uniform(size=1)
             img_input_tensor = image_loader(img, device, p1, p2)
