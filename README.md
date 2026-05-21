@@ -32,7 +32,7 @@ figures/Network architecture DDD2Self.png
 
 ## Qualitative Results
 
-![Results](figures/results.png)
+figures/output of our method.png
 
 
 ## Overview
