@@ -6,6 +6,8 @@ Official repository for the paper:
 Md. Tauhid Bin Iqbal*, Jubyrea*, Imon SA, Nahar N, Bae SH  
 Published in IEEE Access, 2025
 
+https://ieeexplore.ieee.org/document/11203917?
+
 ## Overview
 
 Image denoising methods generally rely on large clean-noisy paired datasets for supervised training. However, obtaining clean target images is difficult and expensive in many real-world applications such as medical imaging, hyperspectral imaging, surveillance, and scientific imaging.
