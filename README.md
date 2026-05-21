@@ -1,3 +1,21 @@
+## Quick Start
+
+### Clone Repository
+```bash
+git clone https://github.com/jubyrea/DDD2Self.git
+cd DDD2Self
+```
+
+### Install Requirements
+```bash
+pip install -r requirements.txt
+```
+
+### Training and Testing
+```bash
+DDD2Self.py
+```
+
 # DDD2Self: Self-Supervised Image Denoising with Dynamic Data-driven Dropout
 
 Official repository for the paper:
