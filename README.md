@@ -28,7 +28,7 @@ https://ieeexplore.ieee.org/document/11203917?
 
 ## Framework Overview
 
-![Framework](figures/framework.png)
+figures/Network architecture DDD2Self.png
 
 ## Qualitative Results
 
