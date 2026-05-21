@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# Environment
+.env
+venv/
+env/
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+tmp/
+
+# IDE files
+.vscode/
+.idea/
