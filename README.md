@@ -26,6 +26,15 @@ Published in IEEE Access, 2025
 
 https://ieeexplore.ieee.org/document/11203917?
 
+## Framework Overview
+
+![Framework](figures/framework.png)
+
+## Qualitative Results
+
+![Results](figures/results.png)
+
+
 ## Overview
 
 Image denoising methods generally rely on large clean-noisy paired datasets for supervised training. However, obtaining clean target images is difficult and expensive in many real-world applications such as medical imaging, hyperspectral imaging, surveillance, and scientific imaging.
